@@ -3,10 +3,10 @@ repositories:
     type: git
     url: https://github.com/UniversalRobots/Universal_Robots_ROS2_Driver.git
     version: humble
-  ur_msgs:
+  ur_simulation_gazebo:
     type: git
-    url: https://github.com/ros-industrial/ur_msgs.git
-    version: humble-devel
+    url: https://github.com/UniversalRobots/Universal_Robots_ROS2_Gazebo_Simulation.git
+    version: humble
   moveit_visual_tools:
     type: git
     url: https://github.com/ros-planning/moveit_visual_tools.git

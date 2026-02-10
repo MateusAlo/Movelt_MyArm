@@ -1,4 +1,4 @@
-# Ignore ROS2 build artifacts if you accidentally build inside the repo
+# Ignore ROS2 build artifacts
 build/
 install/
 log/
